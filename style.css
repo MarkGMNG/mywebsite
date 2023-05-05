@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+.body {
+    background: #25f02d;
+    background: linear-gradient(90deg, #25f02d 6%, #00d4ff 87%); 
+
+}
+
+.link {
+    font-family: DM Sans;
+    font-size: 50px;
+    margin-left: 200px;
+    border: 10px #068a06;
+    background-color: #04ac04;
+    border-radius: 20px;
+}
+
+.hed1 {
+    font-family: DM Sans;
+    text-align: center;
+    font-size: 100px;
+    border: solid 5px #000000;
+    border-radius: 10px;
+    color: #000000;
+    transition: all 0.4s;
+}
+.hed1:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.par1 {
+    font-family: DM Sans;
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.Question {
+    border: solid 3px rgb(156, 179, 26);
+    border-radius: 10px;
+    background-color: #f5f117;
+    padding-left: 20px;
+    font-size: 40px;
+    font-family: DM Sans;
+}
+
+.wronganswer {
+    font-family: DM Sans;
+    font-size: 40px;
+    margin-left: 5px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    margin-right: 320px;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+.wronganswer:hover {
+    background-color: #ff0000;
+}
+
+.correctanswer {
+    font-family: DM Sans;
+    font-size: 40px;
+    margin-left: 5px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    margin-right: 320px;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+.correctanswer:hover {
+    background-color: #00d400;
+}
+
+.answer3 {
+    font-family: DM Sans;
+    font-size: 40px;
+    margin-left: 5px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    margin-right: 320px;
+    transition: all 0.2s;
+    cursor: pointer;  
+}
+.answer3:hover {
+    background-color: #ff0000;  
+}
+
+.answer4 {
+    font-family: DM Sans;
+    font-size: 40px;
+    margin-left: 5px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    margin-right: 320px;
+    transition: all 0.2s;
+    cursor: pointer;  
+}
+.answer4:hover {
+    background-color: #ff0000;
+}
